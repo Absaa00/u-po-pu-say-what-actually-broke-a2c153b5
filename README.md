@@ -16,7 +16,7 @@ Competition: [u-po-pu-say-what-actually-broke-a2c153b5](https://make.fun/c/u-po-
 python3 main.py
 ```
 
-It writes the entry line to `/output/entry.txt` (98 characters, under the 200 limit)
+It writes the entry line to `/output/entry.txt` (97 characters, under the 200 limit)
 and prints it. Deterministic, no network, no dependencies.
 
 ## Why this line
