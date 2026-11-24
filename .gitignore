@@ -1,0 +1,13 @@
+# u-po-pu r2 — ignore the ghost of the typo that cost 42 minutes
+__pycache__/
+*.py[cod]
+*.pyo
+/output/*.log
+/output/*.tmp
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.venv/
+venv/
+.env
